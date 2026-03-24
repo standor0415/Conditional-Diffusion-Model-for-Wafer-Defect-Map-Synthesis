@@ -10,12 +10,10 @@ The goal is to generate high-quality synthetic wafer maps for minority defect cl
 1. [Project Overview](#1-project-overview)
 2. [Dataset](#2-dataset)
 3. [Environment & Installation](#3-environment--installation)
-4. [Project Structure](#4-project-structure)
-5. [Model Architecture](#5-model-architecture)
-6. [Training Strategy](#6-training-strategy)
-7. [Synthetic Data Generation](#7-synthetic-data-generation)
-8. [Downstream Classification Results](#8-downstream-classification-results)
-9. [Key Findings](#9-key-findings)
+4. [Model Architecture](#5-model-architecture)
+5. [Training Strategy](#6-training-strategy)
+6. [Synthetic Data Generation](#7-synthetic-data-generation)
+7. [Downstream Classification Results](#8-downstream-classification-results)
 
 ---
 
